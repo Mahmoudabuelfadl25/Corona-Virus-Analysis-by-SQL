@@ -1,1 +1,0 @@
-# Corona-Virus-Analysis-by-SQL
